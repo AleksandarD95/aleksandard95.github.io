@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Саша" as P {
+ Программным обеспечением
+Систему Делать (Список родуктов, Приготовление еды)
+}
+hide circle
+@enduml
