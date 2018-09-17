@@ -1,7 +1,7 @@
 # aleksandard95.github.io
 # Отчет а лабораторных работах студент группы ИДБ-15-14 Дунджер А.
 ## Лабораторная 1
-
+[модель](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.jpg)  
 ## Лабораторная 2
 
 ## Лабораторная 3
