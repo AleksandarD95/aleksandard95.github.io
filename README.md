@@ -8,6 +8,7 @@
 [Рис2](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/%D1%80%D0%B8%D1%812.PNG)  
 ## Лабораторная 2
 [IDEFO](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+
 [IDEFO DO](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG)
 ## Лабораторная 3
 
