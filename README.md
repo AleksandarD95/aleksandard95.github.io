@@ -27,7 +27,22 @@
 * Диаграмма процессов блока Обучение:
 ![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/A3.png)
 ## Лабораторная 5
-
+* Определение конфигурации технических средств: ноутбук для разработки конфигурации и проверки работосполобности.
+* Определение конфигурации программных средств - «1С:Предприятие» как распределенная среда разработки.
+* Все используемые хранилища  - это базы данных
+* Типы блоков DFD - экранные формы
+* Диаграмма потоков данных блока заполнение расписания заня.:  
+![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/A21.png)
+* Диаграмма потоков данных заполнение расписания экскурсии:
+![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/A22.png)
+* Диаграмма потоков данных заполнение списка паролей для эбс:  
+![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/A23.png)
+* Диаграмма потоков данных выбор просмотр расписания заня.: 
+![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/A31.png)
+* Диаграмма потоков данных выбор просмотр расписания экск.:   
+![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/A32.png)
+* Диаграмма потоков данных выбор просмотр паролей для эбс:  
+![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/A33.png)
 ## Лабораторная 6
 
 ## Лабораторная 7
