@@ -50,4 +50,5 @@
 ![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/erd%20roli.png)
 * ERD-диаграмма для модулей:
 ![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/erd%20moduli.png)
-## Лабораторная 7
+## Экономический эффект
+![none]
