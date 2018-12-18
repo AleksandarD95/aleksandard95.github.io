@@ -44,5 +44,10 @@
 * Диаграмма потоков данных выбор просмотр паролей для эбс:  
 ![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/A33.png)
 ## Лабораторная 6
-
+* ERD-диаграмма для потоков:
+![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/erd%20potoki.png)
+* ERD-диаграмма для ролей:
+![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/erd%20roli.png)
+* ERD-диаграмма для модулей:
+![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/erd%20moduli.png)
 ## Лабораторная 7
