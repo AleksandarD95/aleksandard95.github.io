@@ -52,4 +52,4 @@
 ![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/erd%20moduli.png)
 ## Экономический эффект
 ![none](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/%D1%8D%D0%BA%D0%BE%D0%BD.%20%D1%8D%D1%84%D0%B5%D0%BA%D1%82.png)
-[Текст курсового проекта](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/DundzerA.docx)
+[Текст курсового проекта](https://github.com/AleksandarD95/aleksandard95.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%9F%D0%98%D0%A1.docx)
